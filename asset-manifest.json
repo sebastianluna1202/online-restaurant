@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/sebastianluna1202/online-restaurant.git/static/css/main.8edbcc12.css",
-    "main.js": "/sebastianluna1202/online-restaurant.git/static/js/main.00f3df53.js",
-    "static/media/plato2.svg": "/sebastianluna1202/online-restaurant.git/static/media/plato2.789526ec5364fda6d5027be6fffcd86d.svg",
-    "static/media/plato4.svg": "/sebastianluna1202/online-restaurant.git/static/media/plato4.d132717d1ab39863d918af954638c18a.svg",
-    "static/media/plato3.svg": "/sebastianluna1202/online-restaurant.git/static/media/plato3.5473ac559ec5b472821a419920e1cb59.svg",
-    "static/media/plato1.svg": "/sebastianluna1202/online-restaurant.git/static/media/plato1.8e9ee0f50d56b04def1ba889dfde2d86.svg",
-    "static/media/thumbs-up.svg": "/sebastianluna1202/online-restaurant.git/static/media/thumbs-up.dda38ac0e4e7aaa88659dcbf9f803d20.svg",
-    "static/media/thumbs-down.svg": "/sebastianluna1202/online-restaurant.git/static/media/thumbs-down.a1905a30760b918d9497ef686887a0d3.svg",
-    "index.html": "/sebastianluna1202/online-restaurant.git/index.html",
-    "static/media/fastfood.svg": "/sebastianluna1202/online-restaurant.git/static/media/fastfood.5f0feaef27c714334e25698ae345d893.svg",
-    "static/media/search.svg": "/sebastianluna1202/online-restaurant.git/static/media/search.9b74c76139c37d2b271ad268758da708.svg",
-    "static/media/star.svg": "/sebastianluna1202/online-restaurant.git/static/media/star.f31f9d835643142aa780392f2dc125f1.svg",
-    "static/media/arrow_back.svg": "/sebastianluna1202/online-restaurant.git/static/media/arrow_back.fca3cb23409c4a97d7d1fe11d1fbfbc6.svg",
-    "static/media/arrow_forward.svg": "/sebastianluna1202/online-restaurant.git/static/media/arrow_forward.ed6ce8d1cd4bbc36e68908697fad3c0b.svg",
-    "static/media/ellipse.svg": "/sebastianluna1202/online-restaurant.git/static/media/ellipse.95c160fb3ff704fcc2dbb8661e6a804a.svg",
-    "static/media/menu.svg": "/sebastianluna1202/online-restaurant.git/static/media/menu.fb67e73456b4c0ea7be74d373a177b6e.svg",
-    "main.8edbcc12.css.map": "/sebastianluna1202/online-restaurant.git/static/css/main.8edbcc12.css.map",
-    "main.00f3df53.js.map": "/sebastianluna1202/online-restaurant.git/static/js/main.00f3df53.js.map"
+    "main.css": "./static/css/main.8edbcc12.css",
+    "main.js": "./static/js/main.2b6fae79.js",
+    "static/media/plato2.svg": "./static/media/plato2.789526ec5364fda6d5027be6fffcd86d.svg",
+    "static/media/plato4.svg": "./static/media/plato4.d132717d1ab39863d918af954638c18a.svg",
+    "static/media/plato3.svg": "./static/media/plato3.5473ac559ec5b472821a419920e1cb59.svg",
+    "static/media/plato1.svg": "./static/media/plato1.8e9ee0f50d56b04def1ba889dfde2d86.svg",
+    "static/media/thumbs-up.svg": "./static/media/thumbs-up.dda38ac0e4e7aaa88659dcbf9f803d20.svg",
+    "static/media/thumbs-down.svg": "./static/media/thumbs-down.a1905a30760b918d9497ef686887a0d3.svg",
+    "index.html": "./index.html",
+    "static/media/fastfood.svg": "./static/media/fastfood.5f0feaef27c714334e25698ae345d893.svg",
+    "static/media/search.svg": "./static/media/search.9b74c76139c37d2b271ad268758da708.svg",
+    "static/media/star.svg": "./static/media/star.f31f9d835643142aa780392f2dc125f1.svg",
+    "static/media/arrow_back.svg": "./static/media/arrow_back.fca3cb23409c4a97d7d1fe11d1fbfbc6.svg",
+    "static/media/arrow_forward.svg": "./static/media/arrow_forward.ed6ce8d1cd4bbc36e68908697fad3c0b.svg",
+    "static/media/ellipse.svg": "./static/media/ellipse.95c160fb3ff704fcc2dbb8661e6a804a.svg",
+    "static/media/menu.svg": "./static/media/menu.fb67e73456b4c0ea7be74d373a177b6e.svg",
+    "main.8edbcc12.css.map": "./static/css/main.8edbcc12.css.map",
+    "main.2b6fae79.js.map": "./static/js/main.2b6fae79.js.map"
   },
   "entrypoints": [
     "static/css/main.8edbcc12.css",
-    "static/js/main.00f3df53.js"
+    "static/js/main.2b6fae79.js"
   ]
 }
